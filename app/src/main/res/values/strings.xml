@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">Activity</string>
+    <string name="todo">TODO</string>
+    <string name="go_all_in">GO ALL IN</string>
+    <string name="on_going_all_out">On Going All Out</string>
+    <string name="find_a_team_in_your_city_and_dominate_the_league">Find a team in your city and dominate the league</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="Bg">TODO</string>
+    <string name="desired_league">Desired League</string>
+    <string name="next">NEXT</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="mens">MENS</string>
+    <string name="womens">WOMENS</string>
+    <string name="co_edu">CO-EDU</string>
+    <string name="bg3">TODO</string>
+    <string name="i_am_a">I am a:</string>
+    <string name="log">TODO</string>
+    <string name="togglebutton1">ToggleButton</string>
+    <string name="beginner1">Beginner</string>
+    <string name="beginner2">Beginner</string>
+    <string name="togglebutton3">ToggleButton</string>
+    <string name="baller1">Baller</string>
+    <string name="baller3">Baller</string>
+    <string name="finish1">Finish</string>
+    <string name="bg4">TODO</string>
 </resources>
